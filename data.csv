@@ -1,0 +1,27 @@
+Name,Order ID,Complaint,Category
+chanu,123,i received wrong product,Product Defect
+chanu,123,didnt recieve product,Product Defect
+chanu,123,recieved wrong product,Product Defect
+Chandana kommineni,id24363,my product was not delivered yet,Product Defect
+Chandana kommineni,123,i did not received the refund,Product Defect
+chandu,1234,i did not received my refund,Product Defect
+chandu,1234,my refund was not received,Product Defect
+chanu,987,i did not received my refund yet,Product Defect
+chanulal,987,i did not received my refund yet,Refund Issue
+admin,3456,i received wrong product,Product Defect
+admin,3456,my product was damaged,Product Defect
+admin,3456,my product was wrong,Product Defect
+admin,3456,my product is damaged,Product Defect
+admin,3456,hello,Product Defect
+chandana,1234,my product was not received yet,Product Defect
+chandana,1234,my product was not received yet,Product Defect
+chandana,1234,my product not received yet,Product Defect
+chandana,1234,my product not received yet,Delivery Issue
+chandu,1234,my product was not received yet,Delivery Issue
+chandu,1234,my product was damaged,Product Defect
+chandu,1234,i did not received my refund yet,Refund Issue
+chandu,1234,i got wrong item,Product Defect
+chandu,1234,i got wrong item,Product Defect
+chandu,1234,i got wrong item,Product Defect
+chandu,1234,my product was showing delivered in application but it is not delivered physically,Delivery Issue
+kommineni,12345,my order was not shipped yet,Delivery Issue

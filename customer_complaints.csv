@@ -1,0 +1,73 @@
+Complaint,Category
+My refund is delayed,Refund Issue
+I received a damaged product,Product Defect
+Wrong item delivered,Product Defect
+I was overcharged on my bill,Billing Issue
+The product stopped working after a week,Product Quality Issue
+My shipment is delayed by two weeks,Delivery Delay
+No response from customer service,Customer Support Issue
+My order was cancelled without notice,Order Cancellation
+Refund processed but money not received,Refund Issue
+Website payment failed but amount deducted,Payment Failure
+I cannot track my order,Delivery Issue
+The warranty claim was rejected,Warranty Issue
+I was charged twice for the same order,Billing Issue
+The product description was misleading,Product Misinformation
+Customer care is not answering my calls,Customer Support Issue
+The mobile app crashes every time I open it,Technical Issue
+I received an empty package,Product Defect
+My order was marked as delivered but I never received it,Delivery Issue
+Return request denied without explanation,Return Issue
+My subscription was canceled without notification,Subscription Issue
+I was promised a discount but it was not applied,Billing Issue
+The package was left outside and got stolen,Delivery Issue
+My credit card was charged without my authorization,Fraudulent Transaction
+Order confirmation email was never received,Technical Issue
+My complaint ticket has been ignored for weeks,Customer Support Issue
+I got a defective electronic item,Product Defect
+My order was delivered to the wrong address,Delivery Issue
+Customer service representative was rude,Customer Support Issue
+The return policy is unfair and restrictive,Return Issue
+Gift card balance disappeared from my account,Account Issue
+The website login is not working,Technical Issue
+My product was missing parts,Product Defect
+Received a different color than what I ordered,Product Defect
+Loyalty points were not credited after purchase,Account Issue
+I was promised free shipping but was charged for it,Billing Issue
+My order was split into multiple shipments without notice,Delivery Issue
+I received an expired product,Product Quality Issue
+App keeps logging me out randomly,Technical Issue
+Live chat support is never available,Customer Support Issue
+The refund amount is incorrect,Refund Issue
+My payment keeps getting declined for no reason,Payment Failure
+The checkout process is too slow,Technical Issue
+My bank account was debited twice for one transaction,Fraudulent Transaction
+Delivery personnel refused to hand over the package,Delivery Issue
+I was not informed about additional taxes during checkout,Billing Issue
+The store denied my warranty claim,Warranty Issue
+My package was left in the rain and got damaged,Delivery Issue
+I was charged for a service I never subscribed to,Fraudulent Transaction
+The online tracking system is not updating,Delivery Issue
+Received the wrong size of clothing,Product Defect
+The customer service agent was unhelpful,Customer Support Issue
+Tracking says delivered but I never received my package,Delivery Issue
+The delivery person forged my signature and took the package,Delivery Issue
+The package was marked as delivered to the wrong address,Delivery Issue
+My subscription was downgraded but I am still being billed for the higher plan,Subscription Issue
+I cannot access premium features even though I paid for them,Subscription Issue
+I keep getting renewal reminders even though I canceled my subscription,Subscription Issue
+I never received my order even though it was marked as delivered,Delivery Issue
+My package has been stuck in transit for weeks without updates,Delivery Issue
+Tracking shows my order is still at the warehouse after 10 days,Delivery Issue
+The expected delivery date passed but my product hasn't arrived yet,Delivery Issue
+The courier service lost my package  and there is no update,Delivery Issue
+I paid extra for express shipping but my package is still delayed,Delivery Issue
+The order was marked as shipped but the tracking number is invalid,Delivery Issue
+I was supposed to receive my order last week but it hasn't arrived,Delivery Issue
+Complaint,Category
+"My product has not arrived yet.",Delivery Issue
+"I never received my package.",Delivery Issue
+"My order was marked as delivered but I didn't get it.",Delivery Issue
+"Tracking says delivered but I don't have my package.",Delivery Issue
+"My package has been delayed for weeks.",Delivery Issue
+"The delivery date passed but my order hasn't arrived.",Delivery Issue
